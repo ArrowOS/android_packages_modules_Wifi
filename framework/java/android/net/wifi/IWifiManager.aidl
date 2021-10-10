@@ -403,5 +403,4 @@ interface IWifiManager
     void registerStaStateCallback(in IBinder binder, in IStaStateCallback callback, int callbackIdentifier);
 
     void unregisterStaStateCallback(int callbackIdentifier);
-
 }
