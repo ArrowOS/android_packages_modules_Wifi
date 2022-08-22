@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "36b2b1a5_9264ec28",
+        "filename": "framework/java/android/net/wifi/IWifiManager.aidl",
+        "patchSetId": 1
+      },
+      "lineNbr": 379,
+      "author": {
+        "id": 3
+      },
+      "writtenOn": "2022-08-22T06:49:13Z",
+      "side": 0,
+      "message": "ne",
+      "revId": "cf9b5b7e95745c422208e3ff8d863354b37343ee",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    }
+  ]
+}
